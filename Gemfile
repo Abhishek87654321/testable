@@ -63,6 +63,7 @@ group :development, :test do
 
   # Linting
   gem 'rubocop'
+  gem 'rubocop-capybara'
   gem 'rubocop-rails'
 end
 
